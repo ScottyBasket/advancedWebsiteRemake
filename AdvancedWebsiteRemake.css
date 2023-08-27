@@ -1,0 +1,163 @@
+p,
+h1,
+h2,
+a {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("Images2/stripes.png");
+    margin: 0px;
+}
+
+#wrap {
+    margin: 0;
+    padding: 0;
+}
+
+#top {
+    margin: auto;
+    width: 1000px
+}
+
+header {
+    background-color: black;
+    width: 100%;
+    height: 45px;
+}
+
+header a {
+    float: right;
+    padding: 10px 10px;
+    color: #554D46;
+    text-decoration: none;
+}
+
+nav {
+    background-color: #505050;
+    text-align: center;
+}
+
+nav a {
+    color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    width: 195px;
+    letter-spacing: .2rem;
+    display: inline-block;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 75px;
+}
+
+.menu:hover {
+    background-color: #8DB3C8;
+}
+
+#image {
+    background-image: url(Images2/logo.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto 30px;
+}
+
+aside {
+    background-image: url(Images2/ocean.jpg);
+    height: 380px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 900px;
+    border: solid black;
+    border-width: 0px 1px 1px 1px;
+}
+
+h1 {
+    font-size: 3em;
+    padding: 45px 0px 10px 100px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+hr {
+    margin: 0px 500px 0px 100px;
+    border: none;
+    height: 1px;
+    background-color: black;
+}
+
+aside p {
+    margin: 10px 500px 0px 100px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 10px;
+}
+
+footer {
+    background-color: black;
+    clear: both;
+    width: 100%;
+    height: 200px;
+}
+
+footer img {
+    float: left;
+    height: 25px;
+    margin: 10px 15px;
+}
+
+footer p {
+    color: #554D46;
+    float: right;
+    padding-top: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+article p {
+    padding: 25px 25px 0px 25px;
+    text-align: justify;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 10px;
+    line-height: 1.5;
+}
+
+#sec1 {
+    height: 350px;
+    width: 333.3px;
+    float: left;
+    background-color: white;
+}
+
+#sec2 {
+    height: 350px;
+    width: 333.3px;
+    float: left;
+    background-color: white;
+}
+
+#sec3 {
+    height: 350px;
+    width: 333.3px;
+    float: left;
+    background-color: white;
+}
+
+.fullpage {
+    margin: auto;
+    width: 1000px;
+    background-color: white;
+}
+
+.bottompic {
+    height: 100px;
+    padding: 50px 0px 0px 125px;
+}
+
+#foot {
+    margin: auto;
+    width: 1000px;
+}
